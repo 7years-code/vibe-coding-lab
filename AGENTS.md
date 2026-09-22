@@ -72,8 +72,13 @@
 
 ## 当前进度
 
-- [x] Day 1：装环境 + 注册 GitHub + 建工作区 + 写规则文件
-- [ ] Day 2：建代码仓库（未开始）
+- [x] Day 1：装环境（WorkBuddy / Git / Node.js）+ 注册 GitHub + 建工作区 + 写规则文件
+- [x] Day 2：建 GitHub 仓库 + 首次提交（index.html 占位页、.gitignore 含 .env）
+- [x] Day 3：需求研究 `research.md`（3 个标杆对比 → 聚焦民俗节庆、中英并重）
+- [x] Day 4：产品需求文档 `PRD.md`（知蕴，含 A–G 验收标准 + 成功指标）
+- [x] Day 5：技术设计 `TECH_DESIGN.md`（CloudBase 全家桶 + 4 张表 + 数据流图）
+- [x] Day 6：检查并完善 AGENTS.md（追加 4 条个人规则）
+- [ ] Day 7：未开始
 
 ---
 
